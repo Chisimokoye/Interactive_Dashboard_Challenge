@@ -1,0 +1,14 @@
+.panel-default > .panel-heading-custom {
+    background: #9ed8b0; color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+
+.jumbotron > h1 {
+    text-shadow: 1px 1px 2px black;
+}
+
